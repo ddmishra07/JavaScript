@@ -1,0 +1,10 @@
+                                  FUNCTIONS IN JAVASCRIPT
+Block of code that performs a specific task , can be invoked whenever we needed.
+
+Input variables in funtion is called PARAMETER
+parameteris local variables
+function myFunction (msg){
+                          // parameter = input 
+    console.log(msg);
+}
+myFunction ("I Love JS"); // arguments 

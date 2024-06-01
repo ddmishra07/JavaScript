@@ -1,0 +1,9 @@
+/* we can also use css to change the setting of dark mode or light mode. */
+.dark{
+    background-color:  black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}

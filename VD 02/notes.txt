@@ -1,0 +1,31 @@
+1 Comments 
+
+2 operators is use to perform some operation a+b a is operand and + is operator
+let a=5;
+let b=4;
+console.log("a+b", a+b );
+
+3 assginment , modulo % , expontential use **
+ 
+4 comparsion operators
+  equal to is use ==
+  equal to & type is use ===  is strict check value
+  not equal to is use !=
+  not equal to & type is use  !==
+
+5 Logical operator 
+
+logical AND represent as  &&
+logical OR represent as   || 
+logical NOT  represent as  !
+ 
+6 CONDITIONAL STATEMENTS 
+  IF STATEMENT
+  IF-ELSE STATEMENT 
+  ELSE IF 
+
+7 Ternary operator 
+another form of if else written way 
+
+8 MDN Docs
+more about any lang. search on google 

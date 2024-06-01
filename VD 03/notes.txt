@@ -1,0 +1,50 @@
+1 FOR Loops 
+represent like this 
+ for (let i=1; i<= 5; i++){
+
+ }
+
+2 INFINITE loop 
+ a loop that never ends
+
+ for (let i =1; i>=0; i++){
+    console.log ("i= ", i);
+ } can't use it is DANGEROUS 
+
+
+ 3 WHILE loop
+ while (condition){
+    // do some work
+ }
+
+4  DO WHILE LOOP
+ do{
+    // do some work
+} while(condition)
+
+5 for of loop
+
+6 for in loop
+
+7 guess no game 
+
+8 STRINGS
+ there are 3 types Strings
+  1 is double cotted
+  2 str.len is use to find lenth of Strings
+  3 literals Strings is use ` ` to write code in single line and represent as ` text `
+     
+     example
+    let output = ` the cost of ${ obj.item } is ${obj.price} rupees`;
+    console.log(output);
+
+9 Escape characters
+ /n use is next line in Strings
+ /t is use to give tab space between in Strings   
+
+ 10 string methods in JS
+   
+   1 = str.toUppercase()
+   2 = str.Lowercase()
+   3 = str.trim()  // remove whitespaces
+    

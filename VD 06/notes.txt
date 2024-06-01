@@ -1,0 +1,19 @@
+DOM DOCUmENT OBJECT MODEL
+in this we are accesing and joining html to js and follow many steps.
+
+DOM manipulation
+ 1 selecting with id
+   document.getElementByid("myId")
+
+ 2 selecting with class
+ document.getElementByClassName ("myClassName")  
+
+ 3 selecting with tag
+ document.getElementByTagName("p") 
+
+  DOM having many properties use i tree structure DOm
+  
+  tagName:
+  innerText
+  innerHTML
+  textContent
